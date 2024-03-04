@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A5A1E3AA-8AEE-4F76-AD58-6AB172243E9D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AF5BC3F-7AE2-4901-AE05-F94F559C25FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/NetworkLayer/ApiClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "updateProduct(route:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17D48735-B85C-4470-AB18-A34FF0FC33CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/NetworkLayer/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "method"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7A59EC1-446D-46BD-953A-8ECB20BC50EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/NetworkLayer/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "endPoint"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6CB837-2DBF-4E3D-A1C2-1E288C840E45"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/NetworkLayer/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "endPoint"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00F9D789-DD0F-4B48-8DAD-DB6069F70D9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F2AF6CD4-1A5D-403E-B77F-E02A8EAC5D8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/Coordinator/CategoryCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "start()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CategoryListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100 - 809568a96d738a73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPICombine.CategoryListViewController.coordinator.getter : Swift.Optional&lt;TestAPICombine.CategoryCoordinator&gt;"
+                  moduleName = "TestAPICombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chathuraellawala/my_work/Xcode/TestAPICombine/TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100 - f14fcd6ddcbdfe67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPICombine.CategoryListViewController.coordinator.setter : Swift.Optional&lt;TestAPICombine.CategoryCoordinator&gt;"
+                  moduleName = "TestAPICombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chathuraellawala/my_work/Xcode/TestAPICombine/TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100 - 1bcdebbb2ecf0f76"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPICombine.CategoryListViewController.coordinator.modify : Swift.Optional&lt;TestAPICombine.CategoryCoordinator&gt;"
+                  moduleName = "TestAPICombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chathuraellawala/my_work/Xcode/TestAPICombine/TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100 - c8e22f3441215e5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPICombine.CategoryListViewController.coordinator.modify : Swift.Optional&lt;TestAPICombine.CategoryCoordinator&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TestAPICombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chathuraellawala/my_work/Xcode/TestAPICombine/TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100 - 835193fa58a3e9b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPICombine.CategoryListViewController.init(viewModel: Swift.Optional&lt;TestAPICombine.CategoryListViewModel&gt;) -&gt; TestAPICombine.CategoryListViewController"
+                  moduleName = "TestAPICombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chathuraellawala/my_work/Xcode/TestAPICombine/TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "187">
+               </Location>
+               <Location
+                  uuid = "1EFBFD41-73C1-440B-B1F6-474B6BD08100 - d472c20e014add7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestAPICombine.CategoryListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TestAPICombine.CategoryListViewController&gt;"
+                  moduleName = "TestAPICombine"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chathuraellawala/my_work/Xcode/TestAPICombine/TestAPICombine/Screens/Category/CategoryList/CategoryListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "173">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
